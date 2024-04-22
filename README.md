@@ -1,0 +1,2 @@
+# Youtube_Shorts_Automated_Generation
+Youtube_Shorts_Automated_Generation
